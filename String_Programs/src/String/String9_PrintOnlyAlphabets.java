@@ -14,7 +14,7 @@ public class String9_PrintOnlyAlphabets {
 				count++;
 			}
 		}
-		System.out.println("Total no of aplabaets in string: "+count);
+		System.out.println("Total no of alphabets in string: "+count);
 	}
 
 }
