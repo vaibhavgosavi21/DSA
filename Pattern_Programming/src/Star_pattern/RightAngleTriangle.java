@@ -1,4 +1,4 @@
-package Patterns;
+package Star_pattern;
 
 public class RightAngleTriangle {
 	public static void main(String[] args) {
